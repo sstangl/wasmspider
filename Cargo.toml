@@ -1,0 +1,10 @@
+[package]
+name = "wasmspider"
+version = "0.1.0"
+authors = ["Sean Stangl <sstangl@mozilla.com>"]
+
+[lib]
+path = "src/lib.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
