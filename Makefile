@@ -7,8 +7,8 @@ builddir:
 	mkdir -p build
 
 wasm: builddir
-	cargo +nightly build --target wasm32-unknown-unknown --release
-	wasm-gc target/wasm32-unknown-unknown/release/wasmspider.wasm build/wasmspider.wasm
+	cargo build --target wasm32-unknown-unknown --release
+	cp target/wasm32-unknown-unknown/release/wasmspider.wasm build/
 
 resources: builddir
 	cp resources/* build/
