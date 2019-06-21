@@ -1,4 +1,5 @@
 //! Rust implementation of math-partial-sums.
+
 // The original version is part of The Computer Language Shootout,
 // contributed by Isaac Gouy.
 

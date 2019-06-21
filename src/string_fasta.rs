@@ -1,4 +1,5 @@
 //! Rust implementation of string-fasta.
+
 // The original implemetation is part of The Great Computer Language Shootout,
 // contributed by Ian Osgood.
 

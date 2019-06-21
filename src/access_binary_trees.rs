@@ -1,4 +1,5 @@
 //! Rust implementation of access-binary-trees.
+
 // Original implementation from The Great Computer Language Shootout,
 // contributed by Isaac Gouy.
 

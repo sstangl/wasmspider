@@ -1,4 +1,5 @@
 //! Rust implementation of bitops-nsieve-bits.
+
 // Original code part of The Great Computer Language Shootout,
 // http://shootout.alioth.debian.org, contributed by Ian Osgood.
 

@@ -1,4 +1,5 @@
 //! Rust implementation of SunSpider's bitops-3bit-bits-in-byte.
+
 // Original version bears the following copyright:
 // Copyright (c) 2004 by Arthur Langereis (arthur_ext@xfinitegames.com).
 

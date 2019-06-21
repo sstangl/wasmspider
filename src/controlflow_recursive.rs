@@ -1,4 +1,5 @@
 //! Rust implementation of controlflow-recursive.
+
 // Original version from The Computer Language Shootout,
 // contributed by Isaac Gouy.
 
