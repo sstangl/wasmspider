@@ -74,8 +74,6 @@ function gen_test_html(test_number) {
         </html>
     `;
 
-	console.log(html)
-
     return html;
 }
 
